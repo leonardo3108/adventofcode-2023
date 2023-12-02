@@ -24,3 +24,4 @@ I'll explore ChatGPT for helping me to build, fix and optimize the code.
 * Statistics: https://adventofcode.com/2023/stats
 
 ## ChatGPT chats
+* [Day 1](https://chat.openai.com/share/eb81fa7b-cb7d-4163-8063-d0da970af324)

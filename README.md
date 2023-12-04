@@ -10,7 +10,7 @@ I'll place here my personal solutions to the puzzles.
 
 I'll explore ChatGPT for helping me to build, fix and optimize the code.
 
-## Last years
+## Other years
 
 * https://github.com/leonardo3108/adventofcode-2023
 * https://github.com/leonardo3108/adventofcode-2021
@@ -25,3 +25,4 @@ I'll explore ChatGPT for helping me to build, fix and optimize the code.
 
 ## ChatGPT chats
 * [Day 1](https://chat.openai.com/share/eb81fa7b-cb7d-4163-8063-d0da970af324)
+* [Day 2](https://chat.openai.com/share/4513a32d-e615-48d7-9a6d-ef902a904f18)
